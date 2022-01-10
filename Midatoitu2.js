@@ -28,7 +28,7 @@ let Retseptid = [
     valmistamine:
       "Keeda vesi või puljong. Vala sisse köögiviljasegu ja porru ning lase keeda 10-15 minutit või kuni köögivili on pehme. Lisa vahukoor, puhasta lõhe nahast ja luudest ning tee neist 1,5 cm kuubikud. Lisa supile kala ja lase supp keema ning keera kuumus maha, sest kala küpseb kiiresti.",
     koostisosad: [8, 12, 18, 19, 30],
-    pilt: "pildid/Lohesupp.jpg",
+    pilt: "pildid/lohesupp.jpg",
   },
   {
     retseptiNimi: "Avokaado-kodujuustusalat",
